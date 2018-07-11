@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MPDC.Container</id>
+    <version>1.0.6</version>
+    <authors>Nikoloz Bitsadze, Giga Bokuchava</authors>
+    <owners>MPDC</owners>
+    <!--<licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>-->
+    <iconUrl>https://lh6.googleusercontent.com/68hKUBVj1d1GtsoeogONqTys8fSpndy0DOXoYsbF5Dypd5o_7ksjTfuKcRqTVvyVknxea1TrXwFuJ6VKEhuJ=w1920-h900</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple lightweight container for object instances by abstactions, with noninstant lazy-like creation ability</description>
+    <releaseNotes>Bug fixes</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>SimpleIoc IOC Container</tags>
+  </metadata>
+  <files>
+    <file src="MPDCContainer\bin\Release\netstandard1.0\MPDCContainer.dll" target="lib" />
+    <file src="MPDCContainer\bin\Release\netstandard1.0\MPDCContainer.xml" target="lib" />
+  </files>
+</package>
